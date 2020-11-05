@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Лабораторная_работа__5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+string userString = Console.ReadLine();
+int intValue = Convert.ToInt32(userString);
+Console.Write("Введите первое число и нажмите клавишу Enter: ");
+ 
+string firstString = Console.ReadLine();
+ 
+int firstArg = Convert.ToInt32(firstString);
+ 
+Console.Write("Введите второе число и нажмите клавишу Enter: ");
+string secondString = Console.ReadLine();
+
+int secondArg = Convert.ToInt32(secondString);
+int result = firstArg + secondArg;
+Console.WriteLine("Результат сложения введенных чисел: " + result.ToString());
+}
+}
+}
