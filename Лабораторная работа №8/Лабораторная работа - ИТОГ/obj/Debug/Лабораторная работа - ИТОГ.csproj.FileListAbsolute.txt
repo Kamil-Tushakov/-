@@ -1,0 +1,30 @@
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная_работа___ИТОГ.Form1.resources
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная_работа___ИТОГ.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.exe.config
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.exe
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.pdb
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.exe
+C:\Users\Пользователь\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.pdb
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.exe.config
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.exe
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.pdb
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csprojAssemblyReference.cache
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная_работа___ИТОГ.Form1.resources
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная_работа___ИТОГ.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csproj.GenerateResource.cache
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.exe
+C:\Users\Владимир\Desktop\Лабораторная работа - ИТОГ\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.pdb
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.exe.config
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.exe
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\bin\Debug\Лабораторная работа - ИТОГ.pdb
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная_работа___ИТОГ.Form1.resources
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная_работа___ИТОГ.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.exe
+C:\Users\Пользователь\Desktop\frriend\Лабораторная работа - ИТОГ\obj\Debug\Лабораторная работа - ИТОГ.pdb
